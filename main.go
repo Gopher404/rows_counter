@@ -10,7 +10,7 @@ import (
 var (
 	CountOfFiles int
 	CountOfRows  int
-	Extension    = "go"
+	Extension    string
 )
 
 func main() {
